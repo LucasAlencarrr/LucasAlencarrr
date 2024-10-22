@@ -5,7 +5,7 @@
 ## My name is Lucas Alencar
 
 
-🔭 I’m currently working on **Data Science** since 2023
+🔭 I’m currently working on **Data Science**
 
 🌱 I’m currently learning more **Python, SQL, statistics e data analytics**
 
